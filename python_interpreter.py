@@ -18,6 +18,7 @@ compiler.configure(bg='lightblue')
 compiler.title('Python ')
 file_path=''
 
+
 # -------------------------------------------set file path-----------------------------------
 def set_file_path(path):
     global file_path
