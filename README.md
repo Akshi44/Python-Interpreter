@@ -10,4 +10,4 @@
 <h4>Share via WhatsApp: Share code snippets directly through WhatsApp.</h4>
 <h4>Share via Email: Share code snippets through email.</h4>
 
-<img width="960" alt="image" src="https://github.com/Akshi44/Python-Interpreter/assets/104931182/5b0bcd09-f34d-426d-9df6-3044fb1260ba">
+<img width="960" height="900" alt="image" src="https://github.com/Akshi44/Python-Interpreter/assets/104931182/5b0bcd09-f34d-426d-9df6-3044fb1260ba">
